@@ -1,0 +1,14 @@
+Source: https://www.openml.org/d/151
+
+Attribute information
+Date: date between 7 May 1996 to 5 December 1998. Here normalized between 0 and 1
+Day: day of the week (1-7)
+Period: time of the measurement (1-48) in half hour intervals over 24 hours. Here normalized between 0 and 1
+NSWprice: New South Wales electricity price, normalized between 0 and 1
+NSWdemand: New South Wales electricity demand, normalized between 0 and 1
+VICprice: Victoria electricity price, normalized between 0 and 1
+VICdemand: Victoria electricity demand, normalized between 0 and 1
+transfer: scheduled electricity transfer between both states, normalized between 0 and 1
+
+Test data
+0.041161	0.13493		0.003467	0.422915	0.414912
